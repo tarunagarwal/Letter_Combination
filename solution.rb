@@ -66,7 +66,7 @@ module Solution
       time_end = Time.now()
       puts "Time #{time_end.to_f - time_start.to_f}"
       final_words
-1    end
+     end
   end 
 end
 
